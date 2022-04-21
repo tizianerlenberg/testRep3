@@ -1,6 +1,13 @@
 package de.hfu;
 import java.util.Scanner;
 
+/**
+* Program to convert input into uppercase format.
+* 
+* @author Tizian Erlenberg
+* 
+*/
+
 public class App 
 {
     public static void main( String[] args )
